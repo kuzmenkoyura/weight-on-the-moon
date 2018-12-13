@@ -1,4 +1,4 @@
-# weight-on-the-moon   just another repository about the moon
+# weight-on-the-moon.Just another repository about the moon
 package com.company;
 
 import java.util.Scanner;
